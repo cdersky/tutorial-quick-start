@@ -14,8 +14,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-quick-start`
+* `git clone git@github.com:ember-learn/tutorial-quick-start.git` this repository
+* `cd tutorial-quick-start`
 * `npm install`
 
 ## Running / Development
